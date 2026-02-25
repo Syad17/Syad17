@@ -24,3 +24,9 @@
 ### Connect with me
 
 ![https://www.linkedin.com/in/irsyad-irfan-habibi-546065375/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+## Play Games
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Syad17/Syad17/output/snake.svg" alt="Snake animation" />
