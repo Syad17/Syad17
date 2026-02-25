@@ -1,6 +1,5 @@
 <h3 align="left">Hi 👋! My name is Irsyad</h3>
-
-###
+<img src="img/github-header-banner.png" />
 
 <img align="right" height="194" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExendhZG05YzU2Y2FveWs1YzF1OTJocDcwOXZ1ODFkMzExYXhsOHU1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kZqbBT64ECtjy/giphy.gif"  />
 
