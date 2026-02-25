@@ -24,6 +24,6 @@
 ### Connect with me
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="https://www.linkedin.com/in/irsyad-irfan-habibi-546065375/"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" href="https://www.linkedin.com/in/irsyad-irfan-habibi-546065375/" />
 </div>
 
