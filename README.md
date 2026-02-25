@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Irsyad 👋
+
+![Syad17]()
 
 <!--
 **Syad17/Syad17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning Python
+
+![Max verstappen](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGExaTFzNWphM2RsY2M0OGVmdTF1Y2s4aWFtb2R6MDdpb3N5c2VxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1srCdtiLMkTAjvQKh/giphy.gif)
