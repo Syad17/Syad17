@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Python
 
 ![Max verstappen](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGExaTFzNWphM2RsY2M0OGVmdTF1Y2s4aWFtb2R6MDdpb3N5c2VxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1srCdtiLMkTAjvQKh/giphy.gif)
