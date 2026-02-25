@@ -1,6 +1,6 @@
 ## Hello World! I'm Irsyad 👋
 
-![Syad17](img/github-header-banner.png)
+![SYAD17](img/github-header-banner.png)
 
 
 <!--
