@@ -1,6 +1,6 @@
 ## Hello World! I'm Irsyad 👋
 
-![Syad17]()
+![Syad17](img/github-header-banner.png)
 
 <!--
 **Syad17/Syad17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
