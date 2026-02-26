@@ -29,7 +29,5 @@
 
 ![https://www.linkedin.com/in/irsyad-irfan-habibi-546065375/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-<<<<<<< HEAD
+
 <img src="img/Rose.jpg" /> 
-=======
->>>>>>> d1d7ec655fb672f99912abcc7fd23cbbbe3f3fd0
