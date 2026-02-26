@@ -1,6 +1,5 @@
 
 ## Hello World! I'm Irsyad Irfan Habibi 👋
-=======
 
 <h3 align="left">Hi 👋! My name is Irsyad</h3>
 <img src="img/github-header-banner.png" />
