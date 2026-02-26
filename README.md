@@ -1,5 +1,9 @@
+<<<<<<< HEAD
+## Hello World! I'm Irsyad Irfan Habibi 👋
+=======
 <h3 align="left">Hi 👋! My name is Irsyad</h3>
 <img src="img/github-header-banner.png" />
+>>>>>>> 8f00f2452bad1f9ff9f0d894b4bf5ff072a1a26f
 
 <img align="right" height="194" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExendhZG05YzU2Y2FveWs1YzF1OTJocDcwOXZ1ODFkMzExYXhsOHU1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kZqbBT64ECtjy/giphy.gif"  />
 
@@ -25,8 +29,5 @@
 
 ![https://www.linkedin.com/in/irsyad-irfan-habibi-546065375/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-## Play Games
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Syad17/Syad17/output/snake.svg" alt="Snake animation" />
+<img src="img/img/28b6fd1ae7eeeba404a3be5dce201626.jpg" />
